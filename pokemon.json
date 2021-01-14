@@ -1,0 +1,81 @@
+{
+  "pokemon": [
+    {
+      "id": 1,
+      "name": "bulbasaur",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+      "type": "grass",
+      "likes": 18
+    },
+    {
+      "id": 2,
+      "name": "ivysaur",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+      "type": "grass",
+      "likes": 11
+    },
+    {
+      "id": 3,
+      "name": "venusaur",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+      "type": "grass",
+      "likes": 9
+    },
+    {
+      "id": 4,
+      "name": "charmander",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+      "type": "fire",
+      "likes": 7
+    },
+    {
+      "id": 5,
+      "name": "charmeleon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+      "type": "fire",
+      "likes": 10
+    },
+    {
+      "id": 6,
+      "name": "charizard",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+      "type": "fire",
+      "likes": 8
+    },
+    {
+      "id": 7,
+      "name": "squirtle",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+      "type": "water",
+      "likes": 7
+    },
+    {
+      "id": 8,
+      "name": "wartortle",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+      "type": "water",
+      "likes": 7
+    },
+    {
+      "id": 9,
+      "name": "blastoise",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+      "type": "water",
+      "likes": 7
+    },
+    {
+      "name": "rob",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+      "id": 18,
+      "type": "physic",
+      "likes": 6
+    },
+    {
+      "name": "DooDooMon",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/151.png",
+      "type": "cool",
+      "likes": 5,
+      "id": 19
+    }
+  ]
+}

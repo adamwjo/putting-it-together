@@ -47,21 +47,21 @@
       "name": "squirtle",
       "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
       "type": "water",
-      "likes": 7
+      "likes": 9
     },
     {
       "id": 8,
       "name": "wartortle",
       "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
       "type": "water",
-      "likes": 7
+      "likes": 8
     },
     {
       "id": 9,
       "name": "blastoise",
       "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
       "type": "water",
-      "likes": 7
+      "likes": 10
     },
     {
       "name": "rob",
@@ -76,6 +76,41 @@
       "type": "cool",
       "likes": 5,
       "id": 19
+    },
+    {
+      "name": "Ashley",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/221.png",
+      "type": "cool",
+      "likes": 5,
+      "id": 20
+    },
+    {
+      "name": "Kyle",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/274.png",
+      "type": "cool",
+      "likes": 5,
+      "id": 21
+    },
+    {
+      "name": "Moony",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/200.png",
+      "type": "cool",
+      "likes": 5,
+      "id": 22
+    },
+    {
+      "name": "Choobs",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/311.png",
+      "type": "cool",
+      "likes": 5,
+      "id": 23
+    },
+    {
+      "name": "Adam",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/222.png",
+      "type": "cool",
+      "likes": 5,
+      "id": 24
     }
   ]
 }

@@ -1,4 +1,11 @@
+//As a user I should be able to:
+    // See a list of pokemon when the page renders
+    // Create a new pokemon with a form
+    // Increment a pokemons likes, in the FE and BE
+    // Delete a pokemon from the FE and BE
 
+
+    
 const BASE_URL = 'http://localhost:3000/pokemon'
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -96,7 +103,8 @@ const updateLikes = (pokemon) => {
 }
 
 const handleForm = () => {
-    document.querySelector('form').addEventListener('submit', (event) => {
+    const pokeForm = document.querySelector('form')
+    pokeForm.addEventListener('submit', (event) => {
         event.preventDefault()
         let newPokemon = {
             name: event.target.pokeName.value,
@@ -112,6 +120,7 @@ const handleForm = () => {
         fetch(BASE_URL, reqPackage)
         .then(res => res.json())
         .then(renderPokemon)  
+        pokeForm.reset()
     })
 }
 
